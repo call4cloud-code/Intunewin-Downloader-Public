@@ -146,4 +146,5 @@ Do not contact Patch My PC support for this tool.
     0.3.1 The extracted folder opens automatically after a successful extraction.
     0.4.7 Add the option to also test the application after download with the same install parameters (system or user)
     0.6.36 Base on WinUI3 frontend and C# backend (obfuscated) and alot of improvements... 
+    0.6.39 When starting the download, it retrieves the contentinfo to find the proper commitedcontentversion. Also fixed dark/light mode
 
