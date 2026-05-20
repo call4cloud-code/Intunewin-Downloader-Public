@@ -149,4 +149,5 @@ Do not contact Patch My PC support for this tool.
     0.6.39 When starting the download, it retrieves the contentinfo to find the proper commitedcontentversion. Also fixed dark/light mode
     0.6.54 Added export function for the logs. Improved the commitcontentversion of the app. Added the install/uninstall commands
     0.6.62 Added versioning to the headers of the app (a bit too much)
+    0.6.84 Fixed the select all/select app when install / fixed the install ime policy command
 
